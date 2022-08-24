@@ -1,4 +1,7 @@
-### Hi there 👋
+## Doh Jun Hyoung
+
+### About Me
+🏫 INHA University, Smart Mobility Engineering, Incheon, Korea.
 
 <!--
 **dohjh0219/dohjh0219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
